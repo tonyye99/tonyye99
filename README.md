@@ -28,5 +28,15 @@ Here are some ideas to get you started:
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=tonyye99&theme=dark)
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       20 hrs          ██████████████████░░░░░░░   72.34 %
+TypeScript   5 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+JavaScript   1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
+
 <!--END_SECTION:waka-->
 
