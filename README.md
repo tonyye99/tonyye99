@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonyye99)
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyye99)
