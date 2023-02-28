@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonyye99)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyye99)
+
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tonyye99&theme=dark)
+
+![image](https://github-readme-streak-stats.herokuapp.com/?user=tonyye99)
