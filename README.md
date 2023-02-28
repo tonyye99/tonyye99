@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="left">
+  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</p>
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonyye99)
 
@@ -31,14 +33,3 @@ Here are some ideas to get you started:
 
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyye99&layout=compact&theme=blue-green)
 
-<p align="left">
-  <a href="https://github.com/tonyye99?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/ye-htet-aung">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/tonyye99">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
-  </a>
-</p>
