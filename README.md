@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=tonyye99&theme=dark)
 
-![tonyye99 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyye99&layout=compact&theme=blue-green)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
