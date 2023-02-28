@@ -1,6 +1,6 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Ye Htet Aung</h3>
 
-I'm a web developer with over 5 years of experience in the field. I have a strong skillset in Javascript and enjoy building web applications using modern frameworks and libraries. I am passionate about creating high-quality code and providing intuitive user experiences. In my free time, I enjoy exploring new technologies and focusing on building a SaaS application. Thanks for stopping by!
+I'm a web developer with over 5 years of experience in the field. I have a strong skillset in Javascript and enjoy building web applications using modern frameworks and libraries. I am passionate about creating high-quality code and providing intuitive user experiences. In my free time, I enjoy exploring new technologies and focusing on building SaaS applications. Thanks for stopping by!
 
 - 🔭 I’m currently working as a top rated freelancer on Upwork.
 - 🌱 I’m currently learning React and AWS Technologies.
