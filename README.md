@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=tonyye99&theme=xcode)
 
-![TonyYe99 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyye99&layout=compact&theme=blue-green)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyye99&layout=compact&theme=blue-green)
 
 <p align="left">
   <a href="https://github.com/tonyye99?tab=followers">
