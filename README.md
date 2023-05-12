@@ -37,11 +37,11 @@ I'm a web developer with over 5 years of experience in the field. I have a stron
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       15 hrs 53 mins  ████████████████▒░░░░░░░░   65.49 %
-JavaScript   4 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-TypeScript   3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Vue.js       12 hrs 7 mins   █████████████░░░░░░░░░░░░   52.56 %
+TypeScript   6 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
+JavaScript   3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
