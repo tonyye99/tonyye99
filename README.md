@@ -37,9 +37,9 @@ I'm a web developer with over 5 years of experience in the field. I have a stron
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 35 mins  █████████████████████▓░░░   86.73 %
-Bash         1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+TypeScript   15 hrs 13 mins  █████████████████████▓░░░   87.21 %
+Bash         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
