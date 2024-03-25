@@ -37,7 +37,7 @@ I'm a web developer with over 6 years of experience in the field. I have a stron
 
 ```txt
 TypeScript   8 hrs 55 mins   █████████████████▓░░░░░░░   71.10 %
-Python       2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+Python       2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
 CSS          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
