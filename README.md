@@ -36,10 +36,11 @@ I'm a web developer with over 6 years of experience in the field. I have a stron
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 20 mins    ████████████████████▒░░░░   81.26 %
-JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript   1 hr 20 mins    ███████████████████░░░░░░   75.87 %
+JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
