@@ -36,10 +36,9 @@ I'm a web developer with over 6 years of experience in the field. I have a stron
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 mins          ██████████░░░░░░░░░░░░░░░   40.65 %
-Python       2 mins          ████████▓░░░░░░░░░░░░░░░░   34.49 %
-JSON         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-HTML         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Python   2 mins          ██████████████▓░░░░░░░░░░   58.10 %
+JSON     0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+HTML     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
 ```
 
 <!--END_SECTION:waka-->
