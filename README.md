@@ -36,7 +36,8 @@ I'm a web developer with over 6 years of experience in the field. I have a stron
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON       15 mins         ██████████████████████░░░   87.35 %
+Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
 ```
 
 <!--END_SECTION:waka-->
