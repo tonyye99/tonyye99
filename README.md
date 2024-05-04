@@ -3,7 +3,7 @@
 ### I am a:
 - Seasoned Web Developer with more than six years of experience.
 - Trusted freelance professional, recognized as a top-rated service provider on Upwork.
-- Enthusiastic problem solver, consistently honing skills through daily challenges on LeetCode.
+- Enthusiastic problem solver, consistently honing skills through daily challenges on [LeetCode](https://leetcode.com/u/tony_yh99).
 - Lifelong learner, always eager to explore and experiment with new concepts and technologies.
 
 ### My "Fun and Learn" side projects:
