@@ -22,4 +22,4 @@
 - Working Knowedge: Ruby, Python.
 - Tools and Frameworks: React, Next.js, Vue.js, Nuxt.js, Vite, Redux, Pinia, Vuex, Vitest, Jest, Cypress, CSS, Figma, Node.js, Express.js, MySQL, MongoDB, Docker, AWS Cloud Technologies, git.
 
-Fun facts: I always wanted to be an Astronomer.
+Fun facts: A fan of Sherlock Holmes novels, I've always been intrigued by the detective's deductive reasoning, which inspired my approach to problem-solving in software development.
