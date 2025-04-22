@@ -2,9 +2,9 @@
 
 **Full-stack Engineer** · **Always Learning**
 
-I love solving real-world problems, improving systems, and bringing ideas to life through code.
+I love solving real-world problems, improving systems, and bringing ideas to life through technology.
 
-I work at one of Thailand’s top real estate platforms and spend my off-hours building side projects, exploring new tech patterns, and staying consistent in code and life.
+I work at one of Thailand’s top real estate platforms and spend my time outside of work building side projects, exploring new tech patterns, and staying consistent in software engineering and life.
 
 ---
 
