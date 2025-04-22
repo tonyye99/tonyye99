@@ -18,5 +18,3 @@ I work at one of Thailand’s top real estate platforms and spend my off-hours b
 - Writing clean, maintainable code  
 - Staying mentally sharp and physically healthy
 - Growing toward financial independence
-
----
